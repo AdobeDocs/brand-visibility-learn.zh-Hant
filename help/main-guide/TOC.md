@@ -1,14 +1,14 @@
 ---
-user-guide-title: 新增範本指南
-user-guide-description: 在這裡新增新指南的說明。
-source-git-commit: b4c7e81269675ba5072477986b4a11e1e31c33bb
+user-guide-title: 品牌可見度教學課程
+user-guide-description: 品牌可見度教學課程
+source-git-commit: f7262325ce9f76ff99dbcb6e3e0519d2f2aaeaa5
 workflow-type: tm+mt
-source-wordcount: '14'
-ht-degree: 7%
+source-wordcount: '10'
+ht-degree: 10%
 
 ---
 
 
-# 新增範本指南 {#tutorials}
+# 品牌可見度教學課程 {#tutorials}
 
 + [概觀](overview.md)
