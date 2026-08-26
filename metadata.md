@@ -1,14 +1,13 @@
 ---
 cloud: Experience Cloud
 solution: Brand Visibility
-product_v2:
-  - id: d830747e-f8f3-4fce-8eff-d53b333b1639
+product_v2: id: d830747e-f8f3-4fce-8eff-d53b333b1639
 usetq: true
 type: Tutorial
 description: 品牌可見度檔案。
 mini-toc-levels: 2
 feature-set: LLM Optimizer
-git-repo: https://github.com/AdobeDocs/brand-visibility-learn.zh-Hant
+git-repo: https://github.com/AdobeDocs/brand-visibility-learn.en
 index: false
 recommendations: noDisplay
 source-git-commit: cdc21e442e32a366289e69e8de528451d563f054
