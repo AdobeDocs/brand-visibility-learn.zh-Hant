@@ -1,7 +1,8 @@
 ---
 cloud: Experience Cloud
 solution: Brand Visibility
-product_v2: id: d830747e-f8f3-4fce-8eff-d53b333b1639
+product_v2:
+  - id: d830747e-f8f3-4fce-8eff-d53b333b1639
 usetq: true
 type: Tutorial
 description: 品牌可見度檔案。
