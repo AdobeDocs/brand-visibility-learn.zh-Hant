@@ -1,10 +1,10 @@
 ---
 user-guide-title: 品牌可見度教學課程
 user-guide-description: 品牌可見度教學課程
-source-git-commit: 18dd02ad991897495a81d4ffc8a8078aa65f4f67
+source-git-commit: 6fca4ae8b52606b1a965509a77f53554c5824637
 workflow-type: tm+mt
-source-wordcount: '10'
-ht-degree: 10%
+source-wordcount: '16'
+ht-degree: 6%
 
 ---
 
@@ -12,3 +12,4 @@ ht-degree: 10%
 # 品牌可見度教學課程 {#tutorials}
 
 + [概觀](overview.md)
++ [Bing網站管理員工具AI效能報表](abv-university/abv-related/bing-webmaster-tools-ai-performance-report.md)
