@@ -34,4 +34,4 @@ ht-degree: 0%
 * 為什麼在推出網站之前要讓自己的內容精確一致
 * 網站外的機會（引證的情緒、Wikipedia、Reddit、YouTube）和傳統工具（如後連結和評論）如何建立許可權
 
->[!VIDEO](https://video.tv.adobe.com/v/3502725/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502786/?captions=chi_hant&learn=on){transcript=true}

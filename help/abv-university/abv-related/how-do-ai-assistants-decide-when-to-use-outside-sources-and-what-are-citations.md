@@ -33,4 +33,4 @@ AI助理要麼從訓練資料中回答，要麼先擷取即時來源。 這段�
 * 為什麼有些引文會有幻覺，可能導致404秒
 * 如何辨別模型產生文字中的實際擷取來源
 
->[!VIDEO](https://video.tv.adobe.com/v/3502754/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502840/?captions=chi_hant&learn=on){transcript=true}

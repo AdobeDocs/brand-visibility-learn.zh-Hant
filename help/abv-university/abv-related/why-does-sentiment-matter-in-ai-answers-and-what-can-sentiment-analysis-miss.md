@@ -34,4 +34,4 @@ ht-degree: 0%
 * 為什麼相同的提示會在使用者與日期間傳回不同的語調
 * Adobe Brand Visibility如何追蹤一段時間的情緒和每個提示
 
->[!VIDEO](https://video.tv.adobe.com/v/3502767/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502885/?captions=chi_hant&learn=on){transcript=true}

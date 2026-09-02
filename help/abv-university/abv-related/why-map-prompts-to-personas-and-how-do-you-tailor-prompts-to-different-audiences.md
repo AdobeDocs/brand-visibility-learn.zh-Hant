@@ -34,4 +34,4 @@ ht-degree: 0%
 * 如何依角色（例如決策者或學生）叢集主題
 * 為何取整個對象的可見度平均值會隱藏您的真實身分
 
->[!VIDEO](https://video.tv.adobe.com/v/3502768/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502804/?captions=chi_hant&learn=on){transcript=true}

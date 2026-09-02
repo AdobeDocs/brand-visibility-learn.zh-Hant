@@ -34,4 +34,4 @@ ht-degree: 0%
 * 擷取(RAG)如何產生真正的引文
 * 為什麼引文是說明您的品牌被用作證據的較強訊號
 
->[!VIDEO](https://video.tv.adobe.com/v/3502765/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502849/?captions=chi_hant&learn=on){transcript=true}

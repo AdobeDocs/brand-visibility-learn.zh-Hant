@@ -34,4 +34,4 @@ ht-degree: 0%
 * 為何保留已建立版本的提示記錄檔及其意圖會隨著時間改善提示
 * 如何在客戶設定中上傳提示，以及為何頻繁變更會影響歷史分數
 
->[!VIDEO](https://video.tv.adobe.com/v/3502722/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502751/?captions=chi_hant&learn=on){transcript=true}

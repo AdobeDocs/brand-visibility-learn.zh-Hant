@@ -34,4 +34,4 @@ ht-degree: 0%
 * 為何讓內容更容易閱讀並非易操作
 * 為何在CDN內執行，可讓此程式變得自然、低風險
 
->[!VIDEO](https://video.tv.adobe.com/v/3502727/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502813/?captions=chi_hant&learn=on){transcript=true}

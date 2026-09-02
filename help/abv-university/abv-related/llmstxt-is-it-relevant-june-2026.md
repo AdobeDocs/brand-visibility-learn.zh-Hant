@@ -34,4 +34,4 @@ ht-degree: 0%
 * 最近變更，包括Google機器人正在讀取檔案
 * 為什麼要建立連結是勤勞保險，而不是引用保證
 
->[!VIDEO](https://video.tv.adobe.com/v/3502763/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502903/?captions=chi_hant&learn=on){transcript=true}

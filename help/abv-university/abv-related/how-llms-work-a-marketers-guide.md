@@ -33,4 +33,4 @@ ht-degree: 0%
 * 擷取(RAG)如何分析即時來源中的答案並產生引文
 * 為什麼探索的貨幣從點選轉向引文，以及獲得引文的五個槓桿
 
->[!VIDEO](https://video.tv.adobe.com/v/3502723/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502894/?captions=chi_hant&learn=on){transcript=true}

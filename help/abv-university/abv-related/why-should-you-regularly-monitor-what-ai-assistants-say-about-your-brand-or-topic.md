@@ -34,4 +34,4 @@ AI答案會隨著模型更新和網路轉換而快速變更。 此影片說明�
 * 不正確的第三方資訊如何造成不良的客戶體驗
 * 為何每週監控是實用的節奏，每天都有提供
 
->[!VIDEO](https://video.tv.adobe.com/v/3502742/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502822/?captions=chi_hant&learn=on){transcript=true}

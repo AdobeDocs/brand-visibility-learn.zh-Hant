@@ -34,4 +34,4 @@ LLM體驗依賴與搜尋相同的網頁基礎結構：抓取、編制索引和�
 * 為什麼不一致的規範、工資牆和登入牆會限制AI存取
 * 使用者端轉譯如何隱藏內容，以及復原內容可見度如何修正內容
 
->[!VIDEO](https://video.tv.adobe.com/v/3502741/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502931/?captions=chi_hant&learn=on){transcript=true}

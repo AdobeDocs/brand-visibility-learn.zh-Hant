@@ -34,4 +34,4 @@ ht-degree: 0%
 * 預先轉譯的HTML如何只提供給AI機器人，不提供給使用者
 * 插入的摘要和目錄如何協助機器人瞭解頁面
 
->[!VIDEO](https://video.tv.adobe.com/v/3502739/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502795/?captions=chi_hant&learn=on){transcript=true}
