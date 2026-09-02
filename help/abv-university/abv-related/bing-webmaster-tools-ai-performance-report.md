@@ -35,7 +35,7 @@ ht-degree: 0%
 * 引文資料與點按數、曝光數和排名等傳統搜尋效能報表有何不同
 * 這對您的GEO策略重要的原因，以及它如何補充Adobe Brand Visibility
 
->[!VIDEO](https://video.tv.adobe.com/v/3502690/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502701/?captions=chi_hant&learn=on){transcript=true}
 
 >[!NOTE]
 >AI效能報告目前僅涵蓋Bing Copilot和AI摘要中的引用。 其中尚未包含其他AI助理，例如ChatGPT。
