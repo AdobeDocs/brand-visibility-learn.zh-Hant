@@ -1,9 +1,9 @@
 ---
 user-guide-title: 品牌可見度教學課程
 user-guide-description: 品牌可見度教學課程
-source-git-commit: f7dedef089456496058820b1597e5e5c1724daf1
+source-git-commit: 2933c381dec09383007558ed3bb4784cfd217e2f
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
@@ -12,6 +12,7 @@ ht-degree: 0%
 # Brand Visibility大學 {#tutorials}
 
 + [概觀](overview.md)
++ [概覽（登陸卡測試）](overview-landing-cards.md)
 + [LLM如何運作：行銷人員指南](abv-university/abv-related/how-llms-work-a-marketers-guide.md)
 + [Bing網站管理員工具AI效能報表](abv-university/abv-related/bing-webmaster-tools-ai-performance-report.md)
 + [您必須將整個網站最佳化嗎？](abv-university/abv-related/do-you-have-to-optimize-your-entire-website.md)
