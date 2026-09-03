@@ -1,7 +1,8 @@
 ---
 user-guide-title: 品牌可見度教學課程
 user-guide-description: 品牌可見度教學課程
-source-git-commit: a58a18356740f85b2b520130bdef5cea6255120a
+nudge: edit
+source-git-commit: 367cfb84279de24e826f8e0ad3bc07e5e4c45e58
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
@@ -12,10 +13,10 @@ ht-degree: 0%
 # Brand Visibility大學 {#tutorials}
 
 + [概觀](overview.md)
++ [LLM如何運作：行銷人員指南](abv-university/abv-related/how-llms-work-a-marketers-guide.md)
 + [Bing網站管理員工具AI效能報表](abv-university/abv-related/bing-webmaster-tools-ai-performance-report.md)
 + [您必須將整個網站最佳化嗎？](abv-university/abv-related/do-you-have-to-optimize-your-entire-website.md)
 + [撰寫提示，以獲得可靠且可重複的GEO Insights](abv-university/abv-related/how-do-you-write-prompts-that-give-you-reliable-repeatable-geo-insights.md)
-+ [LLM如何運作：行銷人員指南](abv-university/abv-related/how-llms-work-a-marketers-guide.md)
 + [如何監視AI品牌回應的地區差異](abv-university/abv-related/how-to-monitor-regional-differences-in-ai-brand-responses.md)
 + [提升低代理流量網域的品牌許可權](abv-university/abv-related/increasing-brand-authority-for-low-agentic-traffic-domains.md)
 + [新增AI易記頁面摘要是否會遮蓋？](abv-university/abv-related/is-adding-ai-friendly-page-summaries-cloaking.md)
