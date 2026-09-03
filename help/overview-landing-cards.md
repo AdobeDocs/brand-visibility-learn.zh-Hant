@@ -1,8 +1,10 @@
 ---
 title: Brand Visibility大學：GEO影片教學課程
 description: 透過Brand Visibility University提供的實用價值影片，瞭解AI 搜尋和LLM如何運作，以及如何贏取AI答案中的品牌可見度和引用。
-product_v2: id: d830747e-f8f3-4fce-8eff-d53b333b1639
-feature_v2: id: a080bb92-ba2a-4e53-ba60-f5184d1a9e9a
+product_v2:
+  - id: d830747e-f8f3-4fce-8eff-d53b333b1639
+feature_v2:
+  - id: a080bb92-ba2a-4e53-ba60-f5184d1a9e9a
 source-git-commit: 813bbb1f29ef66a4396bf4adc0ff1f8072fa6df8
 workflow-type: tm+mt
 source-wordcount: 845
