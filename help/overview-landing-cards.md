@@ -1,17 +1,19 @@
 ---
-title: Brand Visibility University：登陸卡測試
-description: 使用登陸卡 — 容器元件建置的替代Brand Visibility University概觀，用於卡片樣式的A/B比較。
-source-git-commit: 2933c381dec09383007558ed3bb4784cfd217e2f
+title: Brand Visibility大學：GEO影片教學課程
+description: 透過Brand Visibility University提供的實用價值影片，瞭解AI 搜尋和LLM如何運作，以及如何贏取AI答案中的品牌可見度和引用。
+product_v2: id: d830747e-f8f3-4fce-8eff-d53b333b1639
+feature_v2: id: a080bb92-ba2a-4e53-ba60-f5184d1a9e9a
+source-git-commit: 813bbb1f29ef66a4396bf4adc0ff1f8072fa6df8
 workflow-type: tm+mt
-source-wordcount: '826'
-ht-degree: 2%
+source-wordcount: 845
+ht-degree: 3%
 
 ---
 
 
-# Brand Visibility University （登陸卡A/B測試）
+# Adobe Brand Visibility 大學
 
-這是以`landing-cards-container`元件建置之概觀的替代版本，用來與產生的HTML卡片進行比較。 相同影片，依主題分組。
+歡迎來到Adobe Brand Visibility University，這是一個不斷成長的實用價值短片庫，其中會說明AI 搜尋和大型語言模型的運作方式，以及如何在AI解答中贏得您品牌的曝光度和引用。 在下方依主題瀏覽。
 
 ## 基礎：AI 搜尋的運作方式 {#foundations}
 
