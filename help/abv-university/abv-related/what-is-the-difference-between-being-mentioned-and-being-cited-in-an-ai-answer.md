@@ -6,15 +6,27 @@ role: Admin, Leader, User
 level: Beginner
 doc-type: Value Video
 duration: 175
-last-substantial-update: 2026-09-02T00:00:00Z
+last-substantial-update: 2026-09-02T00:00:00.000Z
 jira: KT-22523
-source-git-commit: 823cfd29f7816f485995fcb924740a402993fa54
+TQID: 'https://experienceleague.adobe.com/GimNm702CW2KTYszySLq7SqEhg3fVa8cbaQ67enX4Ls'
+product_v2:
+  - id: d830747e-f8f3-4fce-8eff-d53b333b1639
+    internal-label: Brand Visibility
+feature_v2:
+  - id: c898dfb2-0885-42fb-b2af-b2d756752646
+    internal-label: Best practices
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
+source-git-commit: e014c908d0f11498ae1fdb62a96729df68d20b54
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
-
 ---
-
 # 在AI答案中被提及和被引述之間有何差異？
 
 提及內容會在文字中命名您的品牌；引文會以來源連結您的頁面。 此影片說明差異所在，以及引文為何是較強的可見度訊號。
@@ -34,4 +46,4 @@ ht-degree: 0%
 * 擷取(RAG)如何產生真正的引文
 * 為什麼引文是說明您的品牌被用作證據的較強訊號
 
->[!VIDEO](https://video.tv.adobe.com/v/3502849/?captions=chi_hant&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502765/?learn=on){transcript=true}
