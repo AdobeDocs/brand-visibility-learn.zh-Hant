@@ -7,11 +7,10 @@ level: Beginner
 doc-type: Value Video
 duration: 161
 last-substantial-update: 2026-09-02
-jira: KT-22505
-nudge: edit2
-source-git-commit: e92826dfcba6e0269a5dd6557ac7690278829ba2
+jira: KT-2250
+source-git-commit: cb7c15f15e266bf256ca3bc31645cbb0bd0a3d18
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '167'
 ht-degree: 0%
 ---
 # 如何編寫提示，為您提供可靠、可重複的地理見解
@@ -33,4 +32,4 @@ ht-degree: 0%
 * 為何保留已建立版本的提示記錄檔及其意圖會隨著時間改善提示
 * 如何在客戶設定中上傳提示，以及為何頻繁變更會影響歷史分數
 
->[!VIDEO](https://video.tv.adobe.com/v/3502751/?captions=chi_hant&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502722/?learn=on){transcript=true}
