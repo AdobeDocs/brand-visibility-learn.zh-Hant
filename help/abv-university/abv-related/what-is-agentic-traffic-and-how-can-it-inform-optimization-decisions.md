@@ -54,4 +54,4 @@ ht-degree: 0%
 * 內容可見性字數如何顯示AI實際看到的數量
 * 為什麼代理程式需要清晰的頁面結構，尤其是表單和互動
 
->[!VIDEO](https://video.tv.adobe.com/v/3502738/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502777/?captions=chi_hant&learn=on){transcript=true}

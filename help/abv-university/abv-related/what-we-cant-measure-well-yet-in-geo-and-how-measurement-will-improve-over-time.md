@@ -50,4 +50,4 @@ GEO測量很困難，因為AI是不確定的，而且會隨著地區、造訪間
 * 為何很難偵測出屬於常見字詞的品牌名稱
 * 為什麼測量是持續改善且持續改善
 
->[!VIDEO](https://video.tv.adobe.com/v/3502766/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502872/?captions=chi_hant&learn=on){transcript=true}

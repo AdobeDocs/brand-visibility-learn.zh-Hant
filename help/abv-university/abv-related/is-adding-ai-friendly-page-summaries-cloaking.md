@@ -51,4 +51,4 @@ ht-degree: 0%
 * 邊緣最佳化目前如何提供AI機器人，而非搜尋爬蟲
 * 如何從CDN以秒為單位復原任何最佳化
 
->[!VIDEO](https://video.tv.adobe.com/v/3502726/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502876/?captions=chi_hant&learn=on){transcript=true}

@@ -51,4 +51,4 @@ ht-degree: 0%
 * 為什麼分數是北方之星，很難單獨行動
 * 要與其配對的量度，從提及和引文到代理和引薦流量
 
->[!VIDEO](https://video.tv.adobe.com/v/3502740/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502916/?captions=chi_hant&learn=on){transcript=true}

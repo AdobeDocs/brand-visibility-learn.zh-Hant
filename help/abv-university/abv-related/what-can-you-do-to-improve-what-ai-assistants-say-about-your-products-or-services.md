@@ -49,4 +49,4 @@ ht-degree: 0%
 * 如何讓爬蟲輕鬆存取及瞭解內容
 * Adobe Brand Visibility如何顯示第三方引用以保持一致
 
->[!VIDEO](https://video.tv.adobe.com/v/3502733/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502858/?captions=chi_hant&learn=on){transcript=true}

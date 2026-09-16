@@ -46,4 +46,4 @@ LLM會將單一提示加入許多較小的查詢中，並引用在所有查詢�
 * 為何一致的涵蓋範圍能超越單一的頭號排名
 * 為什麼深層主題內容和強大的SEO仍會推動引述量
 
->[!VIDEO](https://video.tv.adobe.com/v/3502762/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502831/?captions=chi_hant&learn=on){transcript=true}

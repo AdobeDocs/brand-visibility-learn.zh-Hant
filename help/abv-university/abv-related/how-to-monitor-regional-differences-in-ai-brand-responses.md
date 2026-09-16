@@ -46,4 +46,4 @@ AI助理的回答會因他們認為使用者的位置而有所不同。 本影�
 * 為何將位置寫入提示本身最符合真實的使用者行為
 * 哪項提示開始使用，以及該方法如何跨產業套用
 
->[!VIDEO](https://video.tv.adobe.com/v/3502724/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502761/?captions=chi_hant&learn=on){transcript=true}

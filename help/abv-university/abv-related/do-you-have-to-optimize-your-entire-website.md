@@ -51,4 +51,4 @@ ht-degree: 0%
 * 到哪裡檢閱您已套用的建議以及仍然開啟的建議
 * 如何隨時復原任何最佳化
 
->[!VIDEO](https://video.tv.adobe.com/v/3502721/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502737/?captions=chi_hant&learn=on){transcript=true}
