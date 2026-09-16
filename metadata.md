@@ -9,7 +9,7 @@ type: Tutorial
 description: 品牌可見度檔案。
 mini-toc-levels: 2
 feature-set: LLM Optimizer
-git-repo: https://github.com/AdobeDocs/brand-visibility-learn.en
+git-repo: https://github.com/AdobeDocs/brand-visibility-learn.zh-Hant
 index: true
 recommendations: noDisplay
 source-git-commit: e014c908d0f11498ae1fdb62a96729df68d20b54
