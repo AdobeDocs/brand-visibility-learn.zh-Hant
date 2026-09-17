@@ -6,15 +6,28 @@ role: Admin, Leader, User
 level: Beginner
 doc-type: Value Video
 duration: 163
-last-substantial-update: 2026-09-02T00:00:00Z
+last-substantial-update: '2026-09-02T00:00:00.000Z'
 jira: KT-22517
-source-git-commit: 823cfd29f7816f485995fcb924740a402993fa54
+autotag-review: '2026-09-16T18:47:02.252Z'
+TQID: 'https://experienceleague.adobe.com/6a14dIVmUuiH7O7ngN3PvcSI5-bCJFCZ7HN8ybRjvn4'
+product_v2:
+  - id: d830747e-f8f3-4fce-8eff-d53b333b1639
+    internal-label: Brand Visibility
+feature_v2:
+  - id: c898dfb2-0885-42fb-b2af-b2d756752646
+    internal-label: Best practices
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
+source-git-commit: e014c908d0f11498ae1fdb62a96729df68d20b54
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
-
 ---
-
 # 為何應定期監視AI助理對您的品牌或主題的評論？
 
 AI答案會隨著模型更新和網路轉換而快速變更。 此影片說明為何定期監視是AI描述您品牌方式的品質保證。

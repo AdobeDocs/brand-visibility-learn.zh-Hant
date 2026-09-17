@@ -6,12 +6,28 @@ role: Admin, Leader, User
 level: Beginner
 doc-type: Value Video
 duration: 161
-last-substantial-update: 2026-09-02
+last-substantial-update: '2026-09-02T00:00:00.000Z'
 jira: KT-22505
-nudge: edit2
-source-git-commit: e92826dfcba6e0269a5dd6557ac7690278829ba2
+autotag-review: '2026-09-16T18:51:54.065Z'
+TQID: 'https://experienceleague.adobe.com/hWvCECVi-XvvPGL8Q85Ohx1XmN-7dI0Ken-FnAb4y6M'
+product_v2:
+  - id: d830747e-f8f3-4fce-8eff-d53b333b1639
+    internal-label: Brand Visibility
+feature_v2:
+  - id: cca7c53b-e6f7-5f35-a8c5-40be2255e0ae
+    internal-label: Customer Configuration
+  - id: ce425a62-d677-4226-bccd-fea5dcf04388
+    internal-label: Prompt management
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
+source-git-commit: 776712b686ae1f9c9ba3710dc7629233c559ae07
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '167'
 ht-degree: 0%
 ---
 # 如何編寫提示，為您提供可靠、可重複的地理見解

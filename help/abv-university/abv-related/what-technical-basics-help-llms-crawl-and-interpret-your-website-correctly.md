@@ -6,15 +6,32 @@ role: Admin, Leader, User
 level: Beginner
 doc-type: Value Video
 duration: 408
-last-substantial-update: 2026-09-02T00:00:00Z
+last-substantial-update: 2026-09-02T00:00:00.000Z
 jira: KT-22516
-source-git-commit: 823cfd29f7816f485995fcb924740a402993fa54
+TQID: 'https://experienceleague.adobe.com/Z92xOrVaP-aIOPn-GZIUxJsCcJWFgucGX2jIoJpHlfQ'
+product_v2:
+  - id: d830747e-f8f3-4fce-8eff-d53b333b1639
+    internal-label: Brand Visibility
+feature_v2:
+  - id: 2bd08bda-a7a9-5c12-8ee6-d68b9f21b84e
+    internal-label: CDN
+  - id: c898dfb2-0885-42fb-b2af-b2d756752646
+    internal-label: Best practices
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
+topic_v2:
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
+source-git-commit: e014c908d0f11498ae1fdb62a96729df68d20b54
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
-
 ---
-
 # 哪些技術基本知識可協助LLM正確抓取和解讀您的網站？
 
 LLM體驗依賴與搜尋相同的網頁基礎結構：抓取、編制索引和呈現。 本影片涵蓋讓您的內容保持可見和可編輯的技術基本知識。
