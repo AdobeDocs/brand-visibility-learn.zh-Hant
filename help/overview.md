@@ -28,7 +28,7 @@ ht-degree: 3%
 歡迎來到Adobe Brand Visibility University，這是一個不斷成長的實用價值短片庫，其中會說明AI 搜尋和大型語言模型的運作方式，以及如何在AI解答中贏得您品牌的曝光度和引用。 在下方依主題瀏覽。
 
 >[!NOTE]
->如需完整檔案，請參閱[Adobe Brand Visibility檔案](https://experienceleague.adobe.com/en/docs/brand-visibility/using/home)。
+>如需完整檔案，請參閱[Adobe Brand Visibility檔案](https://experienceleague.adobe.com/zh-hant/docs/brand-visibility/using/home)。
 
 ## 基礎：AI 搜尋的運作方式 {#foundations}
 
