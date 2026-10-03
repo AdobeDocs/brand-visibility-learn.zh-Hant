@@ -51,7 +51,7 @@ ht-degree: 0%
 * 如何在Opportunity Workspace中尋找前後報告
 * 為什麼人類訪客在AI看到最佳化頁面時沒有看到變更
 
->[!VIDEO](https://video.tv.adobe.com/v/3504047/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3504056/?captions=chi_hant&learn=on){transcript=true}
 
 >[!NOTE]
 >請至少選取20個URL，讓引擎擁有足夠大的樣本，以便準確測量影響。 影響測量現在可用於復原內容可見度，並正擴充至所有Edge機會中的最佳化。
