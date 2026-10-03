@@ -25,7 +25,10 @@ role_v2:
     internal-label: Admin
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
     internal-label: Leader
-source-git-commit: 776712b686ae1f9c9ba3710dc7629233c559ae07
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -49,4 +52,4 @@ ht-degree: 0%
 * 為何保留已建立版本的提示記錄檔及其意圖會隨著時間改善提示
 * 如何在客戶設定中上傳提示，以及為何頻繁變更會影響歷史分數
 
->[!VIDEO](https://video.tv.adobe.com/v/3502751/?captions=chi_hant&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502722/?learn=on){transcript=true}

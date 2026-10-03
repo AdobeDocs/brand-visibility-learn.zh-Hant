@@ -15,6 +15,11 @@ product_v2:
 feature_v2:
   - id: c898dfb2-0885-42fb-b2af-b2d756752646
     internal-label: Best practices
+  - id: ab7fdb62-bd53-4cfd-8c2c-169f7e47f20e
+    internal-label: Brand intelligence
+subfeature_v2:
+  - id: f718ad75-b1df-4dc1-89bf-0c3167e83b33
+    internal-label: Brand presence
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
@@ -22,7 +27,10 @@ role_v2:
     internal-label: Admin
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
     internal-label: Leader
-source-git-commit: e014c908d0f11498ae1fdb62a96729df68d20b54
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
@@ -46,4 +54,4 @@ LLM會將單一提示加入許多較小的查詢中，並引用在所有查詢�
 * 為何一致的涵蓋範圍能超越單一的頭號排名
 * 為什麼深層主題內容和強大的SEO仍會推動引述量
 
->[!VIDEO](https://video.tv.adobe.com/v/3502831/?captions=chi_hant&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502762/?learn=on){transcript=true}

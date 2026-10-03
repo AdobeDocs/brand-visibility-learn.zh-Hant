@@ -25,7 +25,10 @@ role_v2:
     internal-label: Admin
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
     internal-label: Leader
-source-git-commit: e014c908d0f11498ae1fdb62a96729df68d20b54
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
@@ -49,4 +52,4 @@ ht-degree: 0%
 * 預先轉譯的HTML如何只提供給AI機器人，不提供給使用者
 * 插入的摘要和目錄如何協助機器人瞭解頁面
 
->[!VIDEO](https://video.tv.adobe.com/v/3502795/?captions=chi_hant&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502739/?learn=on){transcript=true}

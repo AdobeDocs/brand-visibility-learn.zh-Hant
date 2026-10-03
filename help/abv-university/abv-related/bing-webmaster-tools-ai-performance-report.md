@@ -13,15 +13,26 @@ TQID: 'https://experienceleague.adobe.com/Yjc5C2YMJ-4UgHTsOK-XgIUMr-TaYXTNKh3Y4V
 product_v2:
   - id: d830747e-f8f3-4fce-8eff-d53b333b1639
     internal-label: Brand Visibility
+feature_v2:
+  - id: ab7fdb62-bd53-4cfd-8c2c-169f7e47f20e
+    internal-label: Brand intelligence
+subfeature_v2:
+  - id: f718ad75-b1df-4dc1-89bf-0c3167e83b33
+    internal-label: Brand presence
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
-source-git-commit: e014c908d0f11498ae1fdb62a96729df68d20b54
+source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 0%
@@ -45,7 +56,7 @@ ht-degree: 0%
 * 引文資料與點按數、曝光數和排名等傳統搜尋效能報表有何不同
 * 這對您的GEO策略重要的原因，以及它如何補充Adobe Brand Visibility
 
->[!VIDEO](https://video.tv.adobe.com/v/3502701/?captions=chi_hant&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502690/?learn=on){transcript=true}
 
 >[!NOTE]
 >AI效能報告目前僅涵蓋Bing Copilot和AI摘要中的引用。 其中尚未包含其他AI助理，例如ChatGPT。

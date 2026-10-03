@@ -23,7 +23,12 @@ role_v2:
     internal-label: Admin
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
     internal-label: Leader
-source-git-commit: e014c908d0f11498ae1fdb62a96729df68d20b54
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
@@ -47,4 +52,4 @@ Adobe資料顯示，ChatGPT的引薦流量上升約60%。 此影片說明為什�
 * 這表示ChatGPT再次成為流量管道，而不僅僅是品牌管道
 * 「URL檢測器」中的新引薦流量功能如何顯示這個
 
->[!VIDEO](https://video.tv.adobe.com/v/3502921/?captions=chi_hant&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502764/?learn=on){transcript=true}
