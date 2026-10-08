@@ -1,15 +1,17 @@
 ---
 user-guide-title: 品牌可見度教學課程
 user-guide-description: 品牌可見度教學課程
-source-git-commit: 962fc1206da4f61ac41395aef6300bd68358c44d
+source-git-commit: 8fadb6060644f4c5afd79457c2d2b145f2569158
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '204'
 ht-degree: 0%
 ---
 
 # Brand Visibility大學 {#tutorials}
 
 + [概觀](overview.md)
++ 新聞與見解 {#news-and-insights}
+  + [Google現在透過AI概述回答品牌名稱](abv-university/abv-related/google-now-answers-your-brand-name-with-an-ai-overview.md)
 + 基礎：AI 搜尋的運作方式 {#foundations}
   + [LLM如何運作：行銷人員指南](abv-university/abv-related/how-llms-work-a-marketers-guide.md)
   + [撰寫提示，以獲得可靠且可重複的GEO Insights](abv-university/abv-related/how-do-you-write-prompts-that-give-you-reliable-repeatable-geo-insights.md)
