@@ -1,9 +1,9 @@
 ---
 user-guide-title: 品牌可見度教學課程
 user-guide-description: 品牌可見度教學課程
-source-git-commit: 8fadb6060644f4c5afd79457c2d2b145f2569158
+source-git-commit: 3f24a036ef2a749be3711cde5621e0abc39b525f
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '216'
 ht-degree: 0%
 ---
 
@@ -11,6 +11,8 @@ ht-degree: 0%
 
 + [概觀](overview.md)
 + 新聞與見解 {#news-and-insights}
+  + [說明Google偏好的來源](abv-university/abv-related/what-are-google-preferred-sources.md)
+  + [WebMCP以及AI代理程式如何使用您的網站](abv-university/abv-related/what-is-webmcp.md)
   + [Google現在透過AI概述回答品牌名稱](abv-university/abv-related/google-now-answers-your-brand-name-with-an-ai-overview.md)
 + 基礎：AI 搜尋的運作方式 {#foundations}
   + [LLM如何運作：行銷人員指南](abv-university/abv-related/how-llms-work-a-marketers-guide.md)

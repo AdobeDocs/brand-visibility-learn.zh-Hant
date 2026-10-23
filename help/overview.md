@@ -17,9 +17,9 @@ topic_v2:
     internal-label: Optimization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 1bf6e9acafc568f85cd5cda3f7c33d999a05b9b5
+source-git-commit: 3f24a036ef2a749be3711cde5621e0abc39b525f
 workflow-type: tm+mt
-source-wordcount: '944'
+source-wordcount: '1013'
 ht-degree: 2%
 ---
 
@@ -28,13 +28,31 @@ ht-degree: 2%
 歡迎來到Adobe Brand Visibility University，這是一個不斷成長的實用價值短片庫，其中會說明AI 搜尋和大型語言模型的運作方式，以及如何在AI解答中贏得您品牌的曝光度和引用。 在下方依主題瀏覽。
 
 >[!NOTE]
->如需完整檔案，請參閱[Adobe Brand Visibility檔案](https://experienceleague.adobe.com/zh-hant/docs/brand-visibility/using/home)。
+>如需完整檔案，請參閱[Adobe Brand Visibility檔案](https://experienceleague.adobe.com/en/docs/brand-visibility/using/home)。
 
 ## 新聞與見解 {#news-and-insights}
 
 最新的AI 搜尋轉變，以及這對您的品牌所代表的意義。
 
 ::::landing-cards-container
+:::card
+說明![Google偏好的來源](/help/assets/overview/what-are-google-preferred-sources.png)
+
+說明Google偏好的來源
+
+Google的偏好來源功能有哪些、為何成長迅速，以及如何將其新增到兩行HTML中。
+
+[觀看](abv-university/abv-related/what-are-google-preferred-sources.md)
+:::
+:::card
+![WebMCP以及AI代理程式如何使用您的網站](/help/assets/overview/what-is-webmcp.png)
+
+WebMCP以及AI代理程式如何使用您的網站
+
+WebMCP如何讓AI代理程式像呼叫API一樣呼叫您頁面上的工具、它與MCP有何不同，以及從何處開始。
+
+[觀看](abv-university/abv-related/what-is-webmcp.md)
+:::
 :::card
 ![Google現在透過AI概述回答品牌名稱](/help/assets/overview/google-now-answers-your-brand-name-with-an-ai-overview.png)
 
