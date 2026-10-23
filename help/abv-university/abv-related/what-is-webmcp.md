@@ -33,4 +33,4 @@ ht-degree: 0%
 * 從何處開始，從唯讀搜尋到高風險動作
 * Adobe Sites Optimizer和Adobe Brand Visibility的適用位置
 
->[!VIDEO](https://video.tv.adobe.com/v/3504833/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3504851/?captions=chi_hant&learn=on){transcript=true}

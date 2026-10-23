@@ -32,4 +32,4 @@ ht-degree: 0%
 * 如何新增具有兩行HTML或簡單連結遞補的按鈕
 * 如何在Google搜尋主控台中檢查資格及追蹤選取專案
 
->[!VIDEO](https://video.tv.adobe.com/v/3504832/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3504842/?captions=chi_hant&learn=on){transcript=true}
