@@ -26,9 +26,9 @@ level_v2:
     internal-label: Beginner
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: 08becc62321c4060fc65556ea31128610ad34338
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '227'
 ht-degree: 0%
 ---
 # 影響測量引擎如何運作？
@@ -51,7 +51,7 @@ ht-degree: 0%
 * 如何在Opportunity Workspace中尋找前後報告
 * 為什麼人類訪客在AI看到最佳化頁面時沒有看到變更
 
->[!VIDEO](https://video.tv.adobe.com/v/3504056/?captions=chi_hant&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3504047/?learn=on){transcript=true}
 
 >[!NOTE]
->請至少選取20個URL，讓引擎擁有足夠大的樣本，以便準確測量影響。 影響測量現在可用於復原內容可見度，並正擴充至所有Edge機會中的最佳化。
+>請至少選取20個URL，讓引擎擁有足夠大的樣本，以便準確測量影響。 影響測量現在可用於復原內容可見度、新增LLM適用的摘要及新增目錄，並計畫在Edge機會中擴充至更多最佳化。
