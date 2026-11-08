@@ -30,12 +30,12 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
 ---
-# 如何監視AI品牌回應的地區差異
+# 如何監視AI品牌回應中的地區差異
 
 AI助理的回答會因他們認為使用者的位置而有所不同。 本影片說明將位置直接寫入監控提示的原因，如此可讓結果反映客戶實際看到的內容。
 
@@ -54,4 +54,4 @@ AI助理的回答會因他們認為使用者的位置而有所不同。 本影�
 * 為何將位置寫入提示本身最符合真實的使用者行為
 * 哪項提示開始使用，以及該方法如何跨產業套用
 
->[!VIDEO](https://video.tv.adobe.com/v/3502761/?captions=chi_hant&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502724/?learn=on){transcript=true}

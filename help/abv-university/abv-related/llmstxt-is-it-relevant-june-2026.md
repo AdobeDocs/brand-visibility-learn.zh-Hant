@@ -25,7 +25,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
@@ -49,4 +49,4 @@ ht-degree: 0%
 * 最近變更，包括Google機器人正在讀取檔案
 * 為什麼要建立連結是勤勞保險，而不是引用保證
 
->[!VIDEO](https://video.tv.adobe.com/v/3502903/?captions=chi_hant&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502763/?learn=on){transcript=true}

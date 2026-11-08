@@ -30,12 +30,12 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
 ---
-# 為什麼情緒在AI答案中很重要，而情緒分析會漏掉哪些內容？
+# 為什麼情緒在AI答案中很重要，以及情緒分析會遺漏哪些內容？
 
 情緒是語言的情感方向，它會塑造AI回答如何描繪您的品牌。 此影片說明其重要原因以及情緒分析可能出現問題的地方。
 
@@ -54,4 +54,4 @@ ht-degree: 0%
 * 為什麼相同的提示會在使用者與日期間傳回不同的語調
 * Adobe Brand Visibility如何追蹤一段時間的情緒和每個提示
 
->[!VIDEO](https://video.tv.adobe.com/v/3502885/?captions=chi_hant&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502767/?learn=on){transcript=true}

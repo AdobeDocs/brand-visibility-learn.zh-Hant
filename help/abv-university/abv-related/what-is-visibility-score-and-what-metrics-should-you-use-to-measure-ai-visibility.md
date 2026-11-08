@@ -35,7 +35,7 @@ topic_v2:
     internal-label: Reporting
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
@@ -59,4 +59,4 @@ ht-degree: 0%
 * 為什麼分數是北方之星，很難單獨行動
 * 要與其配對的量度，從提及和引文到代理和引薦流量
 
->[!VIDEO](https://video.tv.adobe.com/v/3502916/?captions=chi_hant&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502740/?learn=on){transcript=true}

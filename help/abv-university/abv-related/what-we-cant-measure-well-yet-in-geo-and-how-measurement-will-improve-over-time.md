@@ -29,12 +29,12 @@ topic_v2:
     internal-label: Measurement
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
 ---
-# 目前我們還無法測量哪些地理位置，以及測量將隨著時間如何改進
+# 我們目前無法在GEO中測量哪些專案，以及測量將如何隨著時間改善
 
 GEO測量很困難，因為AI是不確定的，而且會隨著地區、造訪間隔和個人化而改變。 本影片說明目前難以衡量的專案，以及改進情況。
 
@@ -53,4 +53,4 @@ GEO測量很困難，因為AI是不確定的，而且會隨著地區、造訪間
 * 為何很難偵測出屬於常見字詞的品牌名稱
 * 為什麼測量是持續改善且持續改善
 
->[!VIDEO](https://video.tv.adobe.com/v/3502872/?captions=chi_hant&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502766/?learn=on){transcript=true}

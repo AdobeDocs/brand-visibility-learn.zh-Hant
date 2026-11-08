@@ -25,12 +25,12 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
 ---
-# 為何將提示對應至角色，以及您如何為不同對象量身打造提示？
+# 為何將提示對應至角色，以及如何為不同對象量身打造提示？
 
 以人物為基礎的提示對應群組會根據實際使用者型別進行提示。 本影片說明為何對您的對象量身打造提示，可揭示您在AI答案中的真實站姿。
 
@@ -49,4 +49,4 @@ ht-degree: 0%
 * 如何依角色（例如決策者或學生）叢集主題
 * 為何取整個對象的可見度平均值會隱藏您的真實身分
 
->[!VIDEO](https://video.tv.adobe.com/v/3502804/?captions=chi_hant&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502768/?learn=on){transcript=true}

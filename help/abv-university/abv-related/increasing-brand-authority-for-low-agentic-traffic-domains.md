@@ -30,7 +30,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 0%
@@ -54,4 +54,4 @@ ht-degree: 0%
 * 為什麼在推出網站之前要讓自己的內容精確一致
 * 網站外的機會（引證的情緒、Wikipedia、Reddit、YouTube）和傳統工具（如後連結和評論）如何建立許可權
 
->[!VIDEO](https://video.tv.adobe.com/v/3502786/?captions=chi_hant&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502725/?learn=on){transcript=true}

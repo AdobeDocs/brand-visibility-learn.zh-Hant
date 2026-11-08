@@ -24,12 +24,12 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
 ---
-# AI助理如何決定何時使用外部來源，以及什麼是引文？
+# AI助理如何決定何時使用外部來源，以及有哪些引文？
 
 AI助理要麼從訓練資料中回答，要麼先擷取即時來源。 這段影片說明他們如何決定、引文的真實含義以及為什麼引文不是真實的。
 
@@ -48,4 +48,4 @@ AI助理要麼從訓練資料中回答，要麼先擷取即時來源。 這段�
 * 為什麼有些引文會有幻覺，可能導致404秒
 * 如何辨別模型產生文字中的實際擷取來源
 
->[!VIDEO](https://video.tv.adobe.com/v/3502840/?captions=chi_hant&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502754/?learn=on){transcript=true}

@@ -32,7 +32,7 @@ level_v2:
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 0%
@@ -56,7 +56,7 @@ ht-degree: 0%
 * 引文資料與點按數、曝光數和排名等傳統搜尋效能報表有何不同
 * 這對您的GEO策略重要的原因，以及它如何補充Adobe Brand Visibility
 
->[!VIDEO](https://video.tv.adobe.com/v/3502701/?captions=chi_hant&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502690/?learn=on){transcript=true}
 
 >[!NOTE]
 >AI效能報告目前僅涵蓋Bing Copilot和AI摘要中的引用。 其中尚未包含其他AI助理，例如ChatGPT。

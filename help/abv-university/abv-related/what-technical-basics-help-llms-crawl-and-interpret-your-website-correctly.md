@@ -30,7 +30,7 @@ level_v2:
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
@@ -54,4 +54,4 @@ LLM體驗依賴與搜尋相同的網頁基礎結構：抓取、編制索引和�
 * 為什麼不一致的規範、工資牆和登入牆會限制AI存取
 * 使用者端轉譯如何隱藏內容，以及復原內容可見度如何修正內容
 
->[!VIDEO](https://video.tv.adobe.com/v/3502931/?captions=chi_hant&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502741/?learn=on){transcript=true}

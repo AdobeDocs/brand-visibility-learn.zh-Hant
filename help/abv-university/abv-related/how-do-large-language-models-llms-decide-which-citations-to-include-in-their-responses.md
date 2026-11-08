@@ -30,12 +30,12 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
 ---
-# 大型語言模型LLM如何決定要將哪些引文納入其回應？
+# 大型語言模型LLM如何決定要在回應中加入哪些引文？
 
 LLM會將單一提示加入許多較小的查詢中，並引用在所有查詢中表現最佳的來源。 本影片說明品牌引用代表的意義。
 
@@ -54,4 +54,4 @@ LLM會將單一提示加入許多較小的查詢中，並引用在所有查詢�
 * 為何一致的涵蓋範圍能超越單一的頭號排名
 * 為什麼深層主題內容和強大的SEO仍會推動引述量
 
->[!VIDEO](https://video.tv.adobe.com/v/3502831/?captions=chi_hant&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502762/?learn=on){transcript=true}

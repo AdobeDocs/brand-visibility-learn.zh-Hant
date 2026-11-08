@@ -27,7 +27,7 @@ level_v2:
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -51,4 +51,4 @@ ht-degree: 0%
 * 擷取(RAG)如何分析即時來源中的答案並產生引文
 * 為什麼探索的貨幣從點選轉向引文，以及獲得引文的五個槓桿
 
->[!VIDEO](https://video.tv.adobe.com/v/3502894/?captions=chi_hant&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502723/?learn=on){transcript=true}

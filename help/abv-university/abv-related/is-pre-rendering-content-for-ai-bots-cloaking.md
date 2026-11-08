@@ -30,14 +30,14 @@ level_v2:
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 0%
 ---
-# AI機器人遮罩的預先呈現內容嗎？
+# AI機器人遮罩的預呈現內容嗎？
 
-不用。 預先呈現只會讓AI代理程式看到人類看見的相同內容，而且會遵循Google為大型使用者端JavaScript提供的相同指引。
+否。 預先呈現只會讓AI代理程式看到人類看見的相同內容，而且會遵循Google為大型使用者端JavaScript提供的相同指引。
 
 ## 這部影片是給誰看的？
 
@@ -54,4 +54,4 @@ ht-degree: 0%
 * 為何讓內容更容易閱讀並非易操作
 * 為何在CDN內執行，可讓此程式變得自然、低風險
 
->[!VIDEO](https://video.tv.adobe.com/v/3502813/?captions=chi_hant&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502727/?learn=on){transcript=true}
