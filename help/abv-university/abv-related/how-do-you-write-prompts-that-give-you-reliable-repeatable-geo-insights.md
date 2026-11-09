@@ -28,12 +28,12 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
 ---
-# 如何編寫提示，為您提供可靠、可重複的地理見解
+# 您如何編寫提示，為您提供可靠且可重複的地理位置分析
 
 將您追蹤的提示視為測試案例。 本影片說明逼真、特定和可重複的提示如何為您在Adobe Brand Visibility中提供穩定、可靠的AI可見性深入分析。
 
