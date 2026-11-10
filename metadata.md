@@ -8,11 +8,10 @@ usetq: true
 type: Tutorial
 description: 品牌可見度檔案。
 mini-toc-levels: 2
-feature-set: LLM Optimizer
-git-repo: https://github.com/AdobeDocs/brand-visibility-learn.zh-Hant
+git-repo: https://github.com/AdobeDocs/brand-visibility-learn.en
 index: true
 recommendations: noDisplay
-source-git-commit: e014c908d0f11498ae1fdb62a96729df68d20b54
+source-git-commit: cd19a8362664052f6badd678ea8efc534f5456b6
 workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 0%
