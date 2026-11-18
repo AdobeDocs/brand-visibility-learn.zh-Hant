@@ -8,7 +8,7 @@ usetq: true
 type: Tutorial
 description: 品牌可見度檔案。
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/brand-visibility-learn.en
+git-repo: https://github.com/AdobeDocs/brand-visibility-learn.zh-Hant
 index: true
 nudge: republish
 recommendations: noDisplay
