@@ -1,9 +1,9 @@
 ---
 user-guide-title: 品牌可見度教學課程
 user-guide-description: 品牌可見度教學課程
-source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
+source-git-commit: 3af4fa67a4f8c22a9f89abf1108a3eb28d6ef871
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '223'
 ht-degree: 0%
 ---
 
@@ -41,3 +41,5 @@ ht-degree: 0%
   + [如何監視AI品牌回應中的地區差異](abv-university/abv-related/how-to-monitor-regional-differences-in-ai-brand-responses.md)
   + [為何要定期監視有關您品牌的AI答案](abv-university/abv-related/why-should-you-regularly-monitor-what-ai-assistants-say-about-your-brand-or-topic.md)
   + [為什麼情緒在AI答案中很重要（及其限制）](abv-university/abv-related/why-does-sentiment-matter-in-ai-answers-and-what-can-sentiment-analysis-miss.md)
++ 品牌可見度正在執行 {#in-action}
+  + [內容新鮮度機會](abv-university/abv-related/content-freshness.md)
